@@ -1,0 +1,4 @@
+database name = task_db
+information to login
+username = admin
+password = admin123
